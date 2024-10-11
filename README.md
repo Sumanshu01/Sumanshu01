@@ -1,4 +1,4 @@
-Hello World! 👋 I'm Sumanshu Jindal
+<h1>Hello World! 👋 I'm Sumanshu Jindal</h1>
 
 🎓 First-Year B.Tech in Computer Science.
 
