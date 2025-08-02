@@ -1,6 +1,6 @@
 <h1>Hello World! 👋 I'm Sumanshu Jindal</h1>
 
-🎓 First-Year B.Tech in Computer Science.
+🎓 Second-Year B.Tech in Computer Science.
 
 💻 Aspiring Software Engineer with a passion for building innovative solutions.
 
