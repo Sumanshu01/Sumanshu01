@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,35,46&height=220&section=header&text=Hi%20there,%20I'm%20Sumanshu%20Jindal%20👋&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20%26%20Post-Quantum%20Researcher%20%7C%20IEEE%20Author&descFontSize=16&descAlignY=58" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,35,46&height=220&section=header&text=Hi%20there,%20I%27m%20Sumanshu%20Jindal&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20%26%20Post-Quantum%20Researcher%20%7C%20IEEE%20Author&descFontSize=16&descAlignY=58" width="100%" alt="Header Banner"/>
 
   <!-- Animated Dynamic Typing Subtitle -->
   <a href="https://github.com/Sumanshu01">
@@ -91,21 +91,16 @@ mantra: "Engineering at the intersection of production software and next-gen int
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sumanshu01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=58A6FF&text_color=C9D1D9" alt="Sumanshu's GitHub Stats"/>
+        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sumanshu01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=58A6FF&text_color=C9D1D9" alt="Sumanshu's GitHub Stats"/>
       </td>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanshu01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Top Languages"/>
+        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sumanshu01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanshu01&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Interactive Trophy Board -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumanshu01&theme=dracula&no-frame=true&no-bg=true&margin_w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
