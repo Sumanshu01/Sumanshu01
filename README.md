@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,35,46&height=220&section=header&text=Hi%20there,%20I%27m%20Sumanshu%20Jindal&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20%26%20Post-Quantum%20Researcher%20%7C%20IEEE%20Author&descFontSize=16&descAlignY=58" width="100%" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/Sumanshu01/Sumanshu01/main/assets/header.svg" width="100%" alt="Header Banner"/>
 
   <!-- Animated Dynamic Typing Subtitle -->
   <a href="https://github.com/Sumanshu01">
@@ -262,7 +262,7 @@ mantra: "Engineering at the intersection of production software and next-gen int
   <br/><br/>
 
   <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,35,46&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://raw.githubusercontent.com/Sumanshu01/Sumanshu01/main/assets/footer.svg" width="100%" alt="Footer Banner"/>
 
 </div>
 
