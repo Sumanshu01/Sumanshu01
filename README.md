@@ -51,6 +51,90 @@ mantra: "Engineering at the intersection of production software and next-gen int
 
 ---
 
+### 🔬 Featured IEEE Research Publications
+
+<p align="left">
+  <i>Bridging empirical computer science with next-generation algorithmic frontiers:</i>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Research Title</th>
+      <th>Venue & Indexing</th>
+      <th>Key Scientific Breakthrough</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Next-Generation Cloud-Edge Orchestration: Agentic AI with Post-Quantum Security</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/IEEE-ICCSC%202026-00629B?style=flat-square&logo=ieee&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Scopus-Indexed-E9711C?style=flat-square"/>
+      </td>
+      <td>
+        Architected <b>QRANO</b> combining autonomous AI agents with lattice-based cryptographic protocols:
+        <ul>
+          <li>⚡ <b>34.7%</b> latency reduction</li>
+          <li>🛡️ <b>42.3%</b> security overhead efficiency gain</li>
+          <li>📈 <b>28.9%</b> resource optimization & <b>99.7%</b> uptime across 1,000 edge nodes</li>
+        </ul>
+      </td>
+      <td>
+        <a href="https://doi.org/10.1109/ICCSC67078.2026.11468381" target="_blank">
+          <img src="https://img.shields.io/badge/DOI-10.1109%2F...-blue?style=for-the-badge&logo=doi&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Adaptive Neuro-Empathic Therapeutic Intelligence (ANETI): A Multimodal AI System</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/IEEE-ASIANCON%202025-00629B?style=flat-square&logo=ieee&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Scopus-Indexed-E9711C?style=flat-square"/>
+      </td>
+      <td>
+        Multimodal empathic neural networks for context-aware counseling (500-participant clinical trial):
+        <ul>
+          <li>🎯 <b>96%</b> crisis detection accuracy</li>
+          <li>🩹 <b>89%</b> symptom reduction</li>
+          <li>🤝 <b>94%</b> treatment adherence rate</li>
+        </ul>
+      </td>
+      <td>
+        <a href="https://dx.doi.org/10.1109/ASIANCON66527.2025.11281223" target="_blank">
+          <img src="https://img.shields.io/badge/DOI-10.1109%2F...-blue?style=for-the-badge&logo=doi&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>The Impact of Neuromorphic Computing on Brain-Inspired Robotics</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/IEEE-ICCSAI%202025-00629B?style=flat-square&logo=ieee&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Scopus-Indexed-E9711C?style=flat-square"/>
+      </td>
+      <td>
+        Asynchronous spiking neural networks (SNNs) modeled on cortical microcircuits:
+        <ul>
+          <li>🌱 <b>75%</b> energy reduction over classical architectures</li>
+          <li>⚡ <b>43%</b> faster adaptation dynamic</li>
+          <li>🎯 <b>87%</b> real-time decision accuracy</li>
+        </ul>
+      </td>
+      <td>
+        <a href="https://dx.doi.org/10.1109/ICCSAI64074.2025.11064198" target="_blank">
+          <img src="https://img.shields.io/badge/DOI-10.1109%2F...-blue?style=for-the-badge&logo=doi&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
@@ -82,6 +166,46 @@ mantra: "Engineering at the intersection of production software and next-gen int
 
 ---
 
+### 🚀 Featured Production & Research Projects
+
+<div align="center">
+
+| Project | Highlights & Tech Stack | Live Demo & Links |
+| :--- | :--- | :---: |
+| 🛰️ **ResearchPulse**<br/><sub>AI Research Intelligence Platform</sub> | • Aggregates **5 academic databases** in real-time.<br/>• **384-dimensional vector embeddings** for semantic similarity.<br/>• Gemini AI auto-summarization & dynamic personalized scoring.<br/>• **Tech**: React, Node.js, Python Flask, Socket.IO, Vector DB | [![Live App](https://img.shields.io/badge/Live_Demo-7928CA?style=for-the-badge&logo=render&logoColor=white)](https://researchpulse-1.onrender.com) |
+| 💬 **EchoRoom**<br/><sub>Real-Time Chat & Media Hub</sub> | • Full-duplex room messaging with **live typing & presence indicators**.<br/>• Integrated **WebRTC Voice & Video calling** + voice note recording.<br/>• Secure Google OAuth authentication & Firebase persistence.<br/>• **Tech**: Next.js, TypeScript, Firebase, Tailwind CSS | [![Live App](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://echoroom-real-time-chat-application.vercel.app) |
+| 📊 **AlgoLoom**<br/><sub>Interactive Algorithm Visualizer</sub> | • Step-by-step interactive canvas rendering for sorting & searching.<br/>• Dynamic speed controls, custom array generators, and step traces.<br/>• Implements Bubble Sort, Binary Search, Linear Search visually.<br/>• **Tech**: Python Flask, JavaScript, HTML5 Canvas, CSS3 | [![Live App](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://algorithm-visualizer-inky-three.vercel.app) |
+| 🤖 **Autonomous Research Agent**<br/><sub>AI-Powered Multi-Source Investigator</sub> | • Autonomous web discovery, scraping, and synthesis pipeline.<br/>• Automated multi-step web research with DuckDuckGo API integration.<br/>• Generates structured markdown executive briefs locally with LLMs.<br/>• **Tech**: Python, LangChain, Ollama, BeautifulSoup, DuckDuckGo API | [![GitHub Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumanshu01/autonomous-research-agent) |
+
+</div>
+
+---
+
+### 📜 Verified Professional Certifications
+
+<div align="center">
+
+| Certification Badge | Credential Title | Issuing Body | Verification ID |
+| :---: | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> | **Full-Stack Developer Professional Certificate** | Microsoft | `DOHH7EOJNJRQ` |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white"/> | **RAG and Agentic AI Professional Certificate** | IBM | `3I2586OOPOQP` |
+| <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> | **Certified Professional — AI Vector Search (1Z0-184-25)** | Oracle | `OC6540140` |
+| <img src="https://img.shields.io/badge/Univ_of_Washington-4B2E83?style=flat-square&logo=coursera&logoColor=white"/> | **Machine Learning Foundations: A Case Study Approach** | University of Washington | Verified |
+
+</div>
+
+---
+
+### 🏆 Leadership & Scholarly Service
+
+- 🛡️ **IEEE Technical Reviewer**:
+  - `IEEE AI-SIIS 2026` — Artificial Intelligence & Smart Information Infrastructure
+  - `IEEE IC-AIMLC 2026` — Artificial Intelligence, Machine Learning & Computing
+  - `IEEE GSCon 2027` — Global Semiconductor & Computing Conference
+- 👥 **Co-Founder @ NexaSoul**:
+  - Founded university technical club focused on advancing modern Frontend & Full-Stack engineering through peer mentoring, collaborative open-source builds, and technical hackathons.
+
+---
 
 ### 📊 GitHub Activity & Analytics
 
@@ -141,3 +265,4 @@ mantra: "Engineering at the intersection of production software and next-gen int
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,35,46&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
+
