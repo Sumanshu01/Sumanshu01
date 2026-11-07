@@ -5,7 +5,7 @@
 
   <!-- Animated Dynamic Typing Subtitle -->
   <a href="https://github.com/Sumanshu01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%7C+Next.js+%7C+React+%7C+Spring+Boot+%7C+Node.js;AI%2FML+Researcher+%E2%80%94+Agentic+AI+%26+Post-Quantum+Cryptography;Author+of+3+Scopus-Indexed+IEEE+Research+Publications;Oracle+%26+IBM+Certified+AI+Specialist+%7C+Microsoft+Full+Stack+Dev;Co-Founder+@+NexaSoul+%7C+IEEE+Technical+Reviewer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%7C+Next.js+%7C+React+%7C+Spring+Boot+%7C+Node.js;AI%2FML+Researcher+%E2%80%94+Agentic+AI+%26+Post-Quantum+Cryptography;Author+of+5+Scopus-Indexed+IEEE+Research+Publications;Oracle+%26+IBM+Certified+AI+Specialist+%7C+Microsoft+Full+Stack+Dev;Co-Founder+@+NexaSoul+%7C+IEEE+Technical+Reviewer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
